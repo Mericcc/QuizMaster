@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9aaaba17beacc854084e38f932633da0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rianty
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f9a7ca5c9cfae574590f5baad7a3940e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
